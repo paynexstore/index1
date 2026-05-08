@@ -1,0 +1,2 @@
+-keep class com.myapp.tournamentmasterbd.** { *; }
+-dontwarn android.webkit.**
